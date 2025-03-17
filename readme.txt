@@ -1,0 +1,1 @@
+add folder named static/uploads to store your images in
